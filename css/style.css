@@ -1,0 +1,60 @@
+
+
+body{
+  position: relative;
+  font-family: 'Sacramento', cursive;
+  color: #FFEEEE;
+}
+
+
+.top-container{
+  background-color:#0E185F;
+  position:relative;
+  padding-top:100px;
+}
+.
+.bottom-container{
+
+  margin: 0;
+  padding: 100px 210 0px;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+
+  }
+  h2{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+
+}
+
+  .top-cloud{
+    position: absolute;
+    right: 101px;
+    top:40px;
+  }
+  .bottom-cloud{
+    position: absolute;
+    left: 13px;
+    bottom: 250px;
+
+}
+.middle-container{
+  /* background-color:#06113C;  */
+  position: relative;
+  margin: 100px;
+}
+.profile-img{
+  height: 120px;
+  width: 200px;
+  margin: 50px auto;
+}
+
+.intro{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration-color: #06113C
+  width: 50%;
+  margin: 20px auto;
+}
